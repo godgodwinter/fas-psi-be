@@ -1,0 +1,14 @@
+{
+  "name": "fastify-psi-be",
+  "version": "0.0.1",
+  "description": "Rest API application with NodeJS, Fastify and MySQL",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "fastify": "^4.12.0",
+    "fastify-env": "^2.2.0"
+  }
+}
